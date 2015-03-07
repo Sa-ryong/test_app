@@ -1,0 +1,2 @@
+#!/bin/sh
+sudo nano /opt/nginx/conf/nginx.conf
